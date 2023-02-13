@@ -1,3 +1,11 @@
+admin
+username = Ashu3112
+password = Ashu1234@
+
+username = Coding Ninjas
+password = HappyCoding
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
