@@ -6,6 +6,9 @@ username = Prateek
 password = Prateek@123
 
 
+deployed at - https://beautiful-chimera-30f64c.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
