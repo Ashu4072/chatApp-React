@@ -2,8 +2,8 @@ admin
 username = Ashu3112
 password = Ashu1234@
 
-username = Coding Ninjas
-password = HappyCoding
+username = Prateek
+password = Prateek@123
 
 
 # Getting Started with Create React App
