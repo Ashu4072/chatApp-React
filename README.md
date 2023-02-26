@@ -2,8 +2,8 @@ admin
 username = Ashu3112
 password = Ashu1234@
 
-username = Prateek
-password = Prateek@123
+username = shivam
+password = shivam123@
 
 
 deployed at - https://beautiful-chimera-30f64c.netlify.app/
